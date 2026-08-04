@@ -3,3 +3,5 @@
 - We used 16 AWG wires that enables upwards to 18A of current<br>
 - We also used XT30 connectors for the batteries -> voltage rating of 500V, current rating of 15A, and instantaneous current rating of 30A.<br>
 <img width="1282" height="670" alt="phantom" src="https://github.com/user-attachments/assets/8324510f-d21c-4dcb-9ffb-0305cc3a9ea0" />
+<img width="2160" height="2880" alt="IMG_9936" src="https://github.com/user-attachments/assets/0b5e61c7-effd-4e9f-91bc-52002d57fceb" />
+<img width="2644" height="1795" alt="IMG_3890" src="https://github.com/user-attachments/assets/870dc926-e63a-4604-9835-a0d7cc2b036e" />
